@@ -1,0 +1,13 @@
+C:\Users\Igorjizn\Desktop\Практика\TrainingPractice_01\PAA_Task_01\bin\Debug\netcoreapp3.1\PAA_Task_01.exe
+C:\Users\Igorjizn\Desktop\Практика\TrainingPractice_01\PAA_Task_01\bin\Debug\netcoreapp3.1\PAA_Task_01.deps.json
+C:\Users\Igorjizn\Desktop\Практика\TrainingPractice_01\PAA_Task_01\bin\Debug\netcoreapp3.1\PAA_Task_01.runtimeconfig.json
+C:\Users\Igorjizn\Desktop\Практика\TrainingPractice_01\PAA_Task_01\bin\Debug\netcoreapp3.1\PAA_Task_01.runtimeconfig.dev.json
+C:\Users\Igorjizn\Desktop\Практика\TrainingPractice_01\PAA_Task_01\bin\Debug\netcoreapp3.1\PAA_Task_01.dll
+C:\Users\Igorjizn\Desktop\Практика\TrainingPractice_01\PAA_Task_01\bin\Debug\netcoreapp3.1\PAA_Task_01.pdb
+C:\Users\Igorjizn\Desktop\Практика\TrainingPractice_01\PAA_Task_01\obj\Debug\netcoreapp3.1\PAA_Task_01.csprojAssemblyReference.cache
+C:\Users\Igorjizn\Desktop\Практика\TrainingPractice_01\PAA_Task_01\obj\Debug\netcoreapp3.1\PAA_Task_01.AssemblyInfoInputs.cache
+C:\Users\Igorjizn\Desktop\Практика\TrainingPractice_01\PAA_Task_01\obj\Debug\netcoreapp3.1\PAA_Task_01.AssemblyInfo.cs
+C:\Users\Igorjizn\Desktop\Практика\TrainingPractice_01\PAA_Task_01\obj\Debug\netcoreapp3.1\PAA_Task_01.csproj.CoreCompileInputs.cache
+C:\Users\Igorjizn\Desktop\Практика\TrainingPractice_01\PAA_Task_01\obj\Debug\netcoreapp3.1\PAA_Task_01.dll
+C:\Users\Igorjizn\Desktop\Практика\TrainingPractice_01\PAA_Task_01\obj\Debug\netcoreapp3.1\PAA_Task_01.pdb
+C:\Users\Igorjizn\Desktop\Практика\TrainingPractice_01\PAA_Task_01\obj\Debug\netcoreapp3.1\PAA_Task_01.genruntimeconfig.cache
